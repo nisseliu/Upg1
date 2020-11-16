@@ -6,7 +6,7 @@ using namespace std;
 
 int main() {
 
-    cout << "Ange startvärde: ";
+    cout << "Ange startvärdet: ";
     double start;
     cin >> start;
 
