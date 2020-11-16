@@ -1,0 +1,3 @@
+C:/Users/Nils/CLionProjects/lab1upg1/cmake-build-debug/CMakeFiles/lab1upg1.dir
+C:/Users/Nils/CLionProjects/lab1upg1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nils/CLionProjects/lab1upg1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
